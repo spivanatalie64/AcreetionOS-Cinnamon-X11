@@ -74,3 +74,14 @@ The current goal is a stable release by the end of 2026. Track progress on the [
 ---
 
 \* *Parallel distribution: a distribution similar to, but with a different goal set than, its upstream.*
+---
+
+## 🤖 Pullfrog AI Review
+
+This repository uses **Pullfrog AI** to automatically review pull requests.
+
+Pullfrog is an AI-powered code review agent that analyzes every PR for code quality,
+security issues, performance problems, and best practice violations. Reviews appear
+as inline PR comments and checks. Trigger manually by commenting `@pullfrog` on any PR.
+
+Powered by OpenRouter.
